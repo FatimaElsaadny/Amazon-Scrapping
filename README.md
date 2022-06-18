@@ -1,7 +1,8 @@
 # Amazon-Scrapping
 Web scrapping for Amazon mobile products
 
-Extact some information from mobiles categorey and save them in **csv** file
+Extract some information from mobiles category and save them in **CSV** file 
+
 page link: https://www.amazon.eg/s?rh=n%3A21832883031&fs=true&language=en&ref=lp_21832883031_sar 
 
 sample from output
